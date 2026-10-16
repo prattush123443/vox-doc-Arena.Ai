@@ -1,0 +1,13 @@
+# Generated video projects and render outputs (kept locally, not in Git)
+/projects/*
+!/projects/.gitkeep
+
+# Local Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Temporary render/intermediate files
+*.tmp
+*.part
